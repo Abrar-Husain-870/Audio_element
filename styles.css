@@ -1,0 +1,86 @@
+body{
+    text-align: center;
+    
+}
+
+body{
+    background-image: url("image/UFO.png");
+    background-repeat: no-repeat;
+    background-size: 100% ;
+}
+
+h1{
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+
+footer{
+    color: #DBEDF3;
+    font-family: sans-serif;
+}
+
+.b2{
+    background-image: url("image/RedButton.png");
+    background-size: 85%;
+    background-repeat: no-repeat;
+}
+
+.c3{
+    background-image: url("image/RedButton.png");
+    background-size: 85%;
+    background-repeat: no-repeat;
+}
+
+.e3{
+    background-image: url("image/RedButton.png");
+    background-size: 85%;
+    background-repeat: no-repeat;
+}
+
+.d3{
+    background-image: url("image/RedButton.png");
+    background-size: 85%;
+    background-repeat: no-repeat;
+}
+
+.f3{
+    
+    background-image: url("image/RedButton.png");
+    background-size: 90%;
+    background-repeat: no-repeat;
+}
+
+.set{
+    margin: 10% auto;;
+}
+
+.pressed{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+
+.red{
+    color: red;
+}
+
+
+.piano{
+  outline: none;
+  border: 10px solid #020335;
+  font-size: 3rem;
+  font-family: 'Arvo', cursive;
+  line-height: 1.75;
+  font-weight: 900;
+  color: #1b0811;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: rgb(14, 64, 110);
+}
+
